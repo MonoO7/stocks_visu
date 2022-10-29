@@ -1,0 +1,8 @@
+Possible d'entrer nos actifs dans une case input avec à coté la liste deroulante ou on selectionne l'action
+Canger et afficher les noms complet des actions dans les listes déroulante
+Liste déroulant dynamique lorsque l'on écrit
+Dna la carde, si la perf est positif mettre en vert sinon en rouge si negatif
+Prediction --> ML etc
+DevOpps
+Site pour Outils d'analyse technique :
+https://www.abcbourse.com/apprendre/11_lecon15_1.html
